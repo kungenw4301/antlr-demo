@@ -1,0 +1,6 @@
+bramp.net/antlr4 v0.0.0-20171126210556-f17519e6f52b h1:RE+bymNm29VcfSiq/FzLdFZ50K/vDtyCgdq7cM4B+lY=
+bramp.net/antlr4 v0.0.0-20171126210556-f17519e6f52b/go.mod h1:9rnudSLFEaUF+9rBLuIprgeKhu7wA5LBmok9Nz0UHkU=
+github.com/antlr/antlr4 v0.0.0-20190623224521-a770ff26ccc4 h1:+sJdmEMxyZwqPzKpJy3tsdpclRN/7k2yonC9UT4TYMo=
+github.com/antlr/antlr4 v0.0.0-20190623224521-a770ff26ccc4/go.mod h1:T7PbCXFs94rrTttyxjbyT5+/1V8T2TYDejxUfHJjw1Y=
+github.com/kylelemons/godebug v1.1.0 h1:RPNrshWIDI6G2gRW9EHilWtl7Z6Sb1BR0xunSBf0SNc=
+github.com/kylelemons/godebug v1.1.0/go.mod h1:9/0rRGxNHcop5bhtWyNeEfOS8JIWk580+fNqagV/RAw=
